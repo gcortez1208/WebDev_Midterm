@@ -14,7 +14,6 @@ function populateProfile(user) {
   img.src=user.picture.large;
 }
 
-// try loading a sample JSON if API call fails
 async function loadSampleUser() {
   try {
     const resp = await fetch('./data/user.json');
@@ -23,7 +22,6 @@ async function loadSampleUser() {
     populateProfile(user);
   } catch (e) {
     console.error('sample load failed', e);
-    // as a last resort use generated data
     populateProfile(generateRandomUser());
   }
 }
