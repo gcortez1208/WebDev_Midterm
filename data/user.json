@@ -1,0 +1,66 @@
+{
+    "results": [
+        {
+            "gender": "female",
+            "name": {
+                "title": "Ms",
+                "first": "Nella",
+                "last": "Lepisto"
+            },
+            "location": {
+                "street": {
+                    "number": 5492,
+                    "name": "Rautatienkatu"
+                },
+                "city": "Jokioinen",
+                "state": "Uusimaa",
+                "country": "Finland",
+                "postcode": 93940,
+                "coordinates": {
+                    "latitude": "-26.5184",
+                    "longitude": "129.2823"
+                },
+                "timezone": {
+                    "offset": "+5:45",
+                    "description": "Kathmandu"
+                }
+            },
+            "email": "nella.lepisto@example.com",
+            "login": {
+                "uuid": "a8eb8a2e-e8de-4eab-9f27-5b8260aca30f",
+                "username": "lazyfrog726",
+                "password": "bouncer",
+                "salt": "IZ45NSf8",
+                "md5": "4a75746db432cf45bfa30dad5a8a0d84",
+                "sha1": "6b98585e985b5c4a4c3d11d9cdffb5a944d91bc3",
+                "sha256": "a47fd890c21192858dfbd56a1bd8645b2f8bdd78705d2465defa1efe6c84b03e"
+            },
+            "dob": {
+                "date": "1973-06-30T09:57:31.575Z",
+                "age": 52
+            },
+            "registered": {
+                "date": "2005-03-07T06:22:20.729Z",
+                "age": 21
+            },
+            "phone": "02-676-209",
+            "cell": "045-206-34-95",
+            "id": {
+                "name": "HETU",
+                "value": "NaNNA224undefined"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/37.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/37.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/37.jpg"
+            },
+            "nat": "FI"
+        }
+    ],
+    "info": {
+        "seed": "7222540dd07d0bb9",
+        "results": 1,
+        "page": 1,
+        "version": "1.4"
+    }
+}
